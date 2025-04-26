@@ -1,0 +1,14 @@
+README.md
+setup.py
+reminder_warrior/__init__.py
+reminder_warrior/apple_reminders.py
+reminder_warrior/cli.py
+reminder_warrior/config.py
+reminder_warrior/sync.py
+reminder_warrior/taskwarrior.py
+reminder_warrior.egg-info/PKG-INFO
+reminder_warrior.egg-info/SOURCES.txt
+reminder_warrior.egg-info/dependency_links.txt
+reminder_warrior.egg-info/entry_points.txt
+reminder_warrior.egg-info/requires.txt
+reminder_warrior.egg-info/top_level.txt

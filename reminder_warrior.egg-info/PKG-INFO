@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: reminder-warrior
+Version: 0.1.0
+Summary: Sync tasks between Taskwarrior and Apple Reminders
+Requires-Python: >=3.6
+Requires-Dist: click<9.0,>=7.0

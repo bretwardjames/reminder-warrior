@@ -1,0 +1,3 @@
+[console_scripts]
+reminder-warrior = reminder_warrior.cli:main
+rw = reminder_warrior.cli:main
